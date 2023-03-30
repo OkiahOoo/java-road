@@ -1,8 +1,6 @@
-# java-road
-java学习路线
-## design-pattern
-设计模式
-### 单例模式
+#java学习路线
+## design-pattern:设计模式
+### singleton:单例模式
 饿汉式单例  
 懒汉式单例  
 枚举单例  
