@@ -1,6 +1,5 @@
 # java学习路线
-## design-pattern
-设计模式
+## 设计模式 (design-pattern)
 ### 单例模式 (singleton)   
 + 饿汉式单例 (HungrySingleton)    
 + 懒汉式单例 (LazySingleton)    
