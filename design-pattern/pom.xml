@@ -8,6 +8,4 @@
     </parent>
     <artifactId>design-pattern</artifactId>
     <version>1.0.0</version>
-    <name>Archetype - design-pattern</name>
-    <url>http://maven.apache.org</url>
 </project>
